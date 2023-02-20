@@ -6,4 +6,5 @@ Other files (e.g. ".fasta") can be used as input for the exercises.
 
 
 *Note that they don't necessarily contain the unique or optimal solution for the described problems. They are adjusted to the progress of the course.
+
 **This extra files need to be located in the same directory as the exercise script.
